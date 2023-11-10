@@ -1,0 +1,19 @@
+오후 6:06 2023-11-10
+
+생활코딩-홈서버강의보기
+
+6강--포트포워딩-특정포트로 포워딩할수 있다.
+
+7강--다이나믹 Static IP address- IP번호가 바뀜	
+       Dynamic VS Static IP  address-변하지 않는 IP
+
+8강--Dynamic Host Configuration Protocol-자신의 IP설정방법
+       수동지정-제어판에서
+       맥어드레스
+
+9강--DHCP IP 설정함-IP대여시간이 정해져있음
+
+10강--Network Attached Storage(네트워를 사용하는 저장장치)
+         드랍박스, 구글드라이브, 웨 하드
+         NAS검색해볼것
+         http를 보완한 것이 httpsdlek
