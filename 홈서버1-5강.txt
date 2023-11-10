@@ -1,0 +1,18 @@
+오후 4:48 2023-11-10
+
+<web2--Home sever>
+
+1강--IP 주소
+       IPv4-->IPv6
+
+2강--라우터(공유기)
+        WAN-wide. public Ip.외부와 연결
+         LAN -local. private Ip내부연결
+
+3강--Network Adress Translation 
+ 
+4강--제어판찾기
+
+5강--포트포워딩-port번호
+
+       
